@@ -1,5 +1,14 @@
 # Shashikant Songirkar
-### Hii there <img src="https://github.com/CrazyIndianDeveloper/CrazyIndianDeveloper/blob/main/wavehand.gif" width="30px">  I'm Shashikant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ----==>![Profile Views Counter](https://komarev.com/ghpvc/?username=SRSongirkar&label=PROFILE+VIEWS&color=green) </pre>  ---> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+### Hello there!
+![](https://raw.githubusercontent.com/Schweinepriester/Schweinepriester/master/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
+
+![](https://komarev.com/ghpvc/?username=SRSongirkar)
+
+
+
+
+<img src="https://github.com/CrazyIndianDeveloper/CrazyIndianDeveloper/blob/main/wavehand.gif" width="30px">  I'm Shashikant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ----==>![Profile Views Counter](https://komarev.com/ghpvc/?username=SRSongirkar&label=PROFILE+VIEWS&color=green) </pre>  ---> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 
 
@@ -8,6 +17,7 @@
 </p>
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+	
 	
 ### About Me :
 
