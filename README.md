@@ -10,7 +10,9 @@
 
 <img src="https://github.com/CrazyIndianDeveloper/CrazyIndianDeveloper/blob/main/wavehand.gif" width="30px">  I'm Shashikant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ----==>![Profile Views Counter](https://komarev.com/ghpvc/?username=SRSongirkar&label=PROFILE+VIEWS&color=green) </pre>  ---> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
+### About Me :
 
+I'm an student of **Computer Application**. I'm very passionate about making my own tools for **Software Development,**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, React Js.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others.
 
 <p align="center">
 	<a href="https://github.com/SRSongirkar"><img src="https://img.shields.io/github/followers/SRSongirkar.svg?label=GitHub&style=social" alt="GitHub" height="20"></a>
@@ -19,9 +21,7 @@
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 	
 	
-### About Me :
 
-I'm an student of **Computer Application**. I'm very passionate about making my own tools for **Software Development,**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, React Js.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others.
 
 
 <br />
