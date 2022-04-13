@@ -2,7 +2,7 @@
 ### Hello there!
 ![](https://raw.githubusercontent.com/Schweinepriester/Schweinepriester/master/MeagerHardtofindAlbertosaurus-size_restricted.gif)  	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/google-research/google-research/master/ghum/figures/ghum_retarget_mocap.gif"/>
+<center><img src="https://raw.githubusercontent.com/google-research/google-research/master/ghum/figures/ghum_retarget_mocap.gif"/></center>
 
 
 ![](https://komarev.com/ghpvc/?username=SRSongirkar)
