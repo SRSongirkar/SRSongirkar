@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Software Developer with 1 years of experience in coding, reviewing program functionality,establishing system improvements and testing for security precautions. Equally adept at developing software for desktop computers, cloud integrations. I’m a web developer,Youtuber, & Cyber Security Expert(Beginner). I enjoy Codes, open source software.
+Software Developer with 2.5 years of experience in coding, reviewing program functionality,establishing system improvements and testing for security precautions. Equally adept at developing software for desktop computers, cloud integrations. I’m a web developer,Youtuber, & Cyber Security Expert(Beginner). I enjoy Codes, open source software.
 
 * 🌍  I'm based in Pune
 * 🖥️  See my Wixsite at [this](http://mantech006.wixsite.com/mysite)
