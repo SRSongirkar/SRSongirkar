@@ -12,7 +12,7 @@ I have hands-on experience in **frontend and backend development**, cloud integr
 * 🖥️  Portfolio: [crio.do/learn/portfolio/shashikantsongirkar](https://www.crio.do/learn/portfolio/shashikantsongirkar/)
 * ✉️  LinkedIn: [shashikant-songirkar](https://www.linkedin.com/in/shashikant-r-songirkar-67b663157/)
 * 🧠  Learning: **Data Science, Artificial Intelligence, Machine Learning**
-* 🤝  Open to collaborating on **Full Stack, React.js, JavaScript, TypeScript, Backend, and Database projects**
+* 🤝  Open to collaborating on **Full Stack, React.js, Node Js, JavaScript, TypeScript, Backend, and Database projects**
 
 ---
 
