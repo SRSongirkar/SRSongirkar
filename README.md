@@ -6,7 +6,7 @@ Software Engineer
 
 Software Engineer with **4.5+ years of experience** in designing, developing, and maintaining web applications. Experienced in writing clean, scalable code, reviewing program functionality, implementing system improvements, and ensuring security best practices.
 
-I have hands-on experience in **frontend and backend development**, cloud integrations, and modern JavaScript frameworks. Passionate about building high-quality software, contributing to open-source projects, and continuously learning new technologies, including **Data Science, AI, and Machine Learning**.
+I have hands-on experience in **frontend and backend development**, cloud integrations, and modern JavaScript frameworks. Passionate about building high-quality software, contributing to open-source projects, and continuously learning new technologies, including **Data Science, AI, and Machine Learning**. 
 
 * 🌍  Based in **Pune, India**
 * 🖥️  Portfolio: [crio.do/learn/portfolio/shashikantsongirkar](https://www.crio.do/learn/portfolio/shashikantsongirkar/)
